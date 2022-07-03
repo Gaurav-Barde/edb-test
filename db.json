@@ -1,0 +1,24 @@
+{
+  "pets": [
+    {
+      "id": "cdbfbc33-2146-4da4-bfb1-a85c49e1abad",
+      "name": "Mac",
+      "tags": "Dog"
+    },
+    {
+      "id": "23aae21f-1974-4314-8557-f51ec1cb2046",
+      "name": "Chinu",
+      "tags": "Cat"
+    },
+    {
+      "id": "d4f04af0-333f-413c-afd3-644335a4f964",
+      "name": "Tom",
+      "tags": "Dog"
+    },
+    {
+      "id": "4bfd2f23-a48d-4c1d-a428-7be71675a56a",
+      "name": "Peter",
+      "tags": "cat"
+    }
+  ]
+}
