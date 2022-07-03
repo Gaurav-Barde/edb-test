@@ -2,7 +2,7 @@
 
 Steps for Running the App
 
-Step 1: Clone the repository
+Step 1: Clone the repository with: git clone https://github.com/Gaurav-Barde/edb-test
 
 Step 2: Install dependencies with: npm install
 
